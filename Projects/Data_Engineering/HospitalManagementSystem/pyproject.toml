@@ -1,0 +1,21 @@
+[project]
+name = "hospitalmanagementsystem"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "confluent-kafka>=2.11.1",
+    "Faker>=37.5.3",
+    "structlog>=25.4.0",
+    "coloredlogs>=15.0.1",
+    "pyspark==3.5.1",
+    "starlette>=0.47.3",
+    "requests>=2.32.5",
+    "dash>=3.2.0",
+    "fastapi>=0.116.1",
+    "uvicorn>=0.35.0",
+    "pymongo>=4.14.1",
+    "numpy>=2.3.3",
+    "pandas>=2.3.2",
+]
