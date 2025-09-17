@@ -1,0 +1,14 @@
+[INFO] 2025-09-13 20:52:32 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:52:32 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[INFO] 2025-09-13 20:52:37 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:52:37 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[INFO] 2025-09-13 20:52:39 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:52:39 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[INFO] 2025-09-13 20:52:40 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:52:40 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[WARNING] 2025-09-13 20:52:41 - RateLimitingMiddlewarePractice - Rate limit exceeded for IP: 127.0.0.1
+[INFO] 2025-09-13 20:52:41 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:52:41 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[INFO] 2025-09-13 20:53:31 - RateLimitingMiddlewarePractice - Getting data from the server
+[INFO] 2025-09-13 20:53:31 - RateLimitingMiddlewarePractice - Retrieved data from the server
+[WARNING] 2025-09-13 20:53:31 - RateLimitingMiddlewarePractice - Rate limit exceeded for IP: 127.0.0.1

@@ -1,0 +1,44 @@
+[INFO] 2025-09-14 18:40:48 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-14 18:40:48 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:12:10 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:12:11 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:12:52 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:12:52 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:13:59 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:13:59 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:20:42 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:20:42 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:20:55 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:20:55 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 15:21:00 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 15:21:01 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 18:59:41 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 18:59:41 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-15 18:59:50 - RateLimitingMiddlewarePractice - Fetching product details...
+[ERROR] 2025-09-15 18:59:51 - RateLimitingMiddlewarePractice - User passed in wrong product ID 10
+[INFO] 2025-09-15 19:00:26 - RateLimitingMiddlewarePractice - Fetching product details...
+[INFO] 2025-09-15 19:00:27 - RateLimitingMiddlewarePractice - Product fetched successfully.
+[INFO] 2025-09-16 16:33:16 - RateLimitingMiddlewarePractice - laltu
+[INFO] 2025-09-16 16:34:03 - Authentication and Authorization Practice - laltu
+[INFO] 2025-09-16 16:34:21 - Authentication and Authorization Practice - Laltupwd@202508
+[INFO] 2025-09-16 17:27:54 - Authentication and Authorization Practice - arjun
+[INFO] 2025-09-16 17:27:54 - Authentication and Authorization Practice - Arjunpwd@202508
+[INFO] 2025-09-16 17:28:23 - Authentication and Authorization Practice - user_name='Arjun Shome' user_password='$2b$12$yn/D5f9ZBuB0V1FCN33C2.dxpvycUMFlSQgNlgX22zhb0AZHkWfd6' active=True roles=['admin'] scope=['admin', 'user:free', 'user:premium']
+[INFO] 2025-09-16 17:32:12 - Authentication and Authorization Practice - False
+[INFO] 2025-09-16 17:32:32 - Authentication and Authorization Practice - False
+[INFO] 2025-09-16 17:32:56 - Authentication and Authorization Practice - True
+[INFO] 2025-09-16 17:33:20 - Authentication and Authorization Practice - True
+[INFO] 2025-09-16 17:35:58 - Authentication and Authorization Practice - sub='Arjun Shome' scopes=['user:free', 'admin', 'user:premium'] roles=['admin']
+[INFO] 2025-09-16 17:42:59 - Authentication and Authorization Practice - sub='Arjun' scopes=['user:premium', 'admin', 'user:free'] roles=['admin']
+[INFO] 2025-09-16 17:42:59 - Authentication and Authorization Practice - Fetching product details...
+[INFO] 2025-09-16 17:43:00 - Authentication and Authorization Practice - Product fetched successfully.
+[INFO] 2025-09-16 17:43:33 - Authentication and Authorization Practice - Fetching product details...
+[INFO] 2025-09-16 17:43:33 - Authentication and Authorization Practice - Product fetched successfully.
+[INFO] 2025-09-16 17:45:50 - Authentication and Authorization Practice - user_name='Laltu' user_password='$2b$12$tMEpF5bEGocMAeF5CKXaO.SrrGYTEN7ia6L5jMaD0XW69IRaHpYoC' active=False roles=['user'] scope=['user:free']
+[INFO] 2025-09-16 17:46:23 - Authentication and Authorization Practice - True
+[INFO] 2025-09-16 17:47:43 - Authentication and Authorization Practice - None
+[INFO] 2025-09-16 17:47:55 - Authentication and Authorization Practice - None
+[INFO] 2025-09-16 17:48:38 - Authentication and Authorization Practice - Hi
+[ERROR] 2025-09-16 17:49:28 - Authentication and Authorization Practice - Invalid Username and Password
+[ERROR] 2025-09-16 17:50:56 - Authentication and Authorization Practice - Invalid Username and Password
+[ERROR] 2025-09-16 17:51:18 - Authentication and Authorization Practice - Invalid Username and Password

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffca0f34-d169-4e6f-9794-eef9a67ca328" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Interview_preparation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Interview_preparation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/uv.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Data_Engineering/HospitalManagementSystem/uv.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Middleware/LoggingRequests/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Middleware/LoggingRequests/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Middleware/LoggingRequests/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Middleware/LoggingRequests/log.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32qB9BEUZT5iGD4sHo7dMn996yR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/arjunshome/personal/Projects/Interview_preparation"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffca0f34-d169-4e6f-9794-eef9a67ca328" name="Changes" comment="" />
+      <created>1758138067832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758138067832</updated>
+    </task>
+    <servers />
+  </component>
+</project>
