@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Data_Engineering/HospitalManagementSystem/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Middleware/AuthenticationAuthorization/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="uv (AuthenticationAuthorization)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

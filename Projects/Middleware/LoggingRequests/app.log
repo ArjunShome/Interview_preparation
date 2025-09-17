@@ -26,3 +26,15 @@
 \e[1;32m[INFO]     2025-09-13 14:58:17,206 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/api/say_hello/Arjun
 \e[1;32m[INFO]     2025-09-13 14:58:17,206 - LoggingMiddlewarePractice - Request Method: GET
 \e[1;32m[INFO]     2025-09-13 14:58:17,206 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+\e[1;32m[INFO]     2025-09-13 19:27:13,530 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/
+\e[1;32m[INFO]     2025-09-13 19:27:13,531 - LoggingMiddlewarePractice - Request Method: GET
+\e[1;32m[INFO]     2025-09-13 19:27:13,533 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+\e[1;32m[INFO]     2025-09-13 19:27:13,536 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/
+\e[1;32m[INFO]     2025-09-13 19:27:13,536 - LoggingMiddlewarePractice - Request Method: GET
+\e[1;32m[INFO]     2025-09-13 19:27:13,547 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+\e[1;32m[INFO]     2025-09-13 19:27:28,110 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/docs
+\e[1;32m[INFO]     2025-09-13 19:27:28,110 - LoggingMiddlewarePractice - Request Method: GET
+\e[1;32m[INFO]     2025-09-13 19:27:28,110 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+\e[1;32m[INFO]     2025-09-13 19:27:28,208 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/openapi.json
+\e[1;32m[INFO]     2025-09-13 19:27:28,208 - LoggingMiddlewarePractice - Request Method: GET
+\e[1;32m[INFO]     2025-09-13 19:27:28,212 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
