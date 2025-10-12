@@ -1,24 +1,39 @@
-# Remove duplicates from an array which is already sorted..
-class Array:
-    def __init__(self, array):
-        self.array = array
+# # Remove duplicates from an array which is already sorted..
+# class Array:
+#     def __init__(self, array):
+#         self.array = array
+#
+#     def remove_duplicates_using_set(self):
+#         self.array = set(self.array)
+#         return self.array
+#
+#     def remove_duplicates_without_using_set(self):
+#         i = 0
+#         for j in range(1, len(self.array)):
+#             if self.array[j] != self.array[i]:
+#                 self.array[i+1] = self.array[j]
+#                 i +=1
+#         return self.array[:i+1]
+#
+# if __name__ == "__main__":
+#     input_array = input("Enter the array of numbers separated by comma: ")
+#     input_array = [int(number) for number in input_array.split(",")]
+#     array_instance = Array(input_array)
+#     # unique_array = array_instance.remove_duplicates_using_set()
+#     unique_array = array_instance.remove_duplicates_without_using_set()
+#     print(unique_array)
 
-    def remove_duplicates_using_set(self):
-        self.array = set(self.array)
-        return self.array
-    
-    def remove_duplicates_without_using_set(self):
-        i = 0
-        for j in range(1, len(self.array)):
-            if self.array[j] != self.array[i]:
-                self.array[i+1] = self.array[j]
-                i +=1 
-        return self.array[:i+1]
-    
-if __name__ == "__main__":
-    input_array = input("Enter the array of numbers separated by comma: ")
-    input_array = [int(number) for number in input_array.split(",")]
-    array_instance = Array(input_array)
-    # unique_array = array_instance.remove_duplicates_using_set()
-    unique_array = array_instance.remove_duplicates_without_using_set()
-    print(unique_array)
+
+def rem_dup(lst: list[int]) -> tuple[list[int], int]:
+    i = 0
+    for j in range(1, len(lst)):
+        if lst[i] != lst[j]:
+            lst[i + 1] = lst[j]
+            i += 1
+    return lst, i + 1
+
+if __name__=='__main__':
+    lst = [1,1,1,1,2,2,2,2,3,3,4,5,6,7,8,8,8,8,9]
+    lst, k = rem_dup(lst)
+    print(lst)
+    print(k)

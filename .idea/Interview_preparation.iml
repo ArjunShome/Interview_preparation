@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/Projects/Data_Engineering/HospitalManagementSystem/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Projects/Middleware/AuthenticationAuthorization/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Data_Engineering/PySpark_practice/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="uv (AuthenticationAuthorization)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="uv (PySpark_practice)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

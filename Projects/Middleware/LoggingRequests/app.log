@@ -38,3 +38,21 @@
 \e[1;32m[INFO]     2025-09-13 19:27:28,208 - LoggingMiddlewarePractice - Request URL: http://127.0.0.1:8001/openapi.json
 \e[1;32m[INFO]     2025-09-13 19:27:28,208 - LoggingMiddlewarePractice - Request Method: GET
 \e[1;32m[INFO]     2025-09-13 19:27:28,212 - LoggingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:39:58 - RateLimitingMiddlewarePractice - Request URL: http://testserver/api/say_hello/Arjun
+[INFO] 2025-09-20 12:39:58 - RateLimitingMiddlewarePractice - Request Method: GET
+[INFO] 2025-09-20 12:39:58 - RateLimitingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:40:28 - RateLimitingMiddlewarePractice - Request URL: http://testserver/api/say_hello/Arjun
+[INFO] 2025-09-20 12:40:28 - RateLimitingMiddlewarePractice - Request Method: GET
+[INFO] 2025-09-20 12:40:28 - RateLimitingMiddlewarePractice - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:41:34 - LoggingRequestsMiddleware - Request URL: http://testserver/api/say_hello/Arjun
+[INFO] 2025-09-20 12:41:34 - LoggingRequestsMiddleware - Request Method: GET
+[INFO] 2025-09-20 12:41:34 - LoggingRequestsMiddleware - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:41:43 - LoggingRequestsMiddleware - Request URL: http://testserver/api/say_hello/Arjun
+[INFO] 2025-09-20 12:41:43 - LoggingRequestsMiddleware - Request Method: GET
+[INFO] 2025-09-20 12:41:43 - LoggingRequestsMiddleware - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request URL: http://testserver/api/say_hello/Arjun
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request Method: GET
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request processed in: 0.0 minutes 1 seconds
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request URL: http://testserver/
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request Method: GET
+[INFO] 2025-09-20 12:44:03 - LoggingRequestsMiddleware - Request processed in: 0.0 minutes 1 seconds

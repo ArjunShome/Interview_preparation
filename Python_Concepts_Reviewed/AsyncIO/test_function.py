@@ -9,6 +9,6 @@ def calc_sum(a, b):
 
 async def calc_sum_async(a, b):
     print("Calculating Sum...")
-    asyncio.sleep(3) 
+    await asyncio.sleep(3)
     print("Sum Computed!!")
     return a + b

@@ -28,7 +28,7 @@ class ColorFormatter(logging.Formatter):
         return f"{color}{base}{RESET}" if color else base
 
 def get_logger(name: Optional[str] = None) -> logging.Logger:
-    logger = logging.getLogger(name or "RateLimitingMiddlewarePractice")
+    logger = logging.getLogger(name or "LoggingRequestsMiddleware")
     logger.setLevel(logging.DEBUG)  # set base level; handlers will filter
     logger.propagate = False
 
