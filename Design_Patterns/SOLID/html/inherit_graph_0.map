@@ -1,0 +1,97 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,961,55,986"/>
+<area shape="rect" id="Node000001" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_vehicle.html" title=" " alt="" coords="105,104,295,145"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="30,945,52,621,73,427,86,347,100,288,117,245,139,206,180,144,185,147,143,208,122,248,105,289,91,348,78,428,57,621,35,945"/>
+<area shape="rect" id="Node000008" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_vehicle_pricing.html" title=" " alt="" coords="105,300,295,341"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="29,945,33,864,43,748,64,616,80,548,100,483,118,442,139,402,180,340,185,343,144,405,123,444,105,485,85,550,70,617,49,749,38,864,34,945"/>
+<area shape="rect" id="Node000012" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_vehicle.html" title=" " alt="" coords="103,496,297,537"/>
+<area shape="poly" id="edge12_Node000000_Node000012" title=" " alt="" coords="33,945,55,827,75,753,100,679,141,598,181,536,186,539,146,601,105,681,80,754,61,829,38,946"/>
+<area shape="rect" id="Node000020" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_vehicle_pricing.html" title=" " alt="" coords="103,692,297,733"/>
+<area shape="poly" id="edge20_Node000000_Node000020" title=" " alt="" coords="46,946,183,732,187,735,50,949"/>
+<area shape="rect" id="Node000024" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_vehicle.html" title=" " alt="" coords="106,888,294,929"/>
+<area shape="poly" id="edge24_Node000000_Node000024" title=" " alt="" coords="68,956,144,927,146,932,70,961"/>
+<area shape="rect" id="Node000031" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_vehicle_pricing.html" title=" " alt="" coords="106,1019,294,1059"/>
+<area shape="poly" id="edge31_Node000000_Node000031" title=" " alt="" coords="70,986,146,1016,144,1021,68,991"/>
+<area shape="rect" id="Node000035" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_vehicle.html" title=" " alt="" coords="105,1215,295,1255"/>
+<area shape="poly" id="edge35_Node000000_Node000035" title=" " alt="" coords="50,998,187,1213,183,1216,46,1001"/>
+<area shape="rect" id="Node000039" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_vehicle_pricing.html" title=" " alt="" coords="105,1377,295,1418"/>
+<area shape="poly" id="edge39_Node000000_Node000039" title=" " alt="" coords="37,1002,58,1120,78,1194,105,1266,142,1327,181,1375,177,1378,138,1330,100,1268,72,1196,53,1121,32,1003"/>
+<area shape="rect" id="Node000042" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_vehicle.html" title=" " alt="" coords="109,1508,291,1549"/>
+<area shape="poly" id="edge42_Node000000_Node000042" title=" " alt="" coords="36,1001,59,1219,79,1342,92,1392,105,1428,119,1451,136,1472,172,1505,168,1509,132,1475,115,1454,100,1431,86,1394,74,1343,54,1220,31,1002"/>
+<area shape="rect" id="Node000045" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_vehicle_pricing.html" title=" " alt="" coords="109,1639,291,1679"/>
+<area shape="poly" id="edge45_Node000000_Node000045" title=" " alt="" coords="35,1002,41,1119,54,1282,75,1445,89,1511,105,1559,119,1582,136,1603,172,1636,168,1640,132,1606,114,1585,100,1561,83,1512,69,1446,48,1282,36,1119,30,1002"/>
+<area shape="rect" id="Node000002" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_compact.html" title=" " alt="" coords="347,5,537,46"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="257,95,344,57,377,44,379,49,346,61,259,100"/>
+<area shape="rect" id="Node000004" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_s_u_v.html" title=" " alt="" coords="347,71,537,111"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="310,106,346,101,347,107,311,112"/>
+<area shape="rect" id="Node000006" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_sports_bike.html" title=" " alt="" coords="347,136,537,177"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="311,136,347,141,346,146,310,142"/>
+<area shape="rect" id="Node000003" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_grand_i10.html" title=" " alt="" coords="589,5,780,46"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="553,23,589,23,589,28,553,28"/>
+<area shape="rect" id="Node000005" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_creta.html" title=" " alt="" coords="589,71,780,111"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="553,88,589,88,589,94,553,94"/>
+<area shape="rect" id="Node000007" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_r_s200.html" title=" " alt="" coords="589,136,780,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="553,154,589,154,589,159,553,159"/>
+<area shape="rect" id="Node000009" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_creta_pricing.html" title=" " alt="" coords="347,201,537,242"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="257,291,344,253,377,240,379,245,346,257,259,296"/>
+<area shape="rect" id="Node000010" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="347,267,537,307"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="310,302,346,297,347,303,311,308"/>
+<area shape="rect" id="Node000011" href="$class_s_o_l_i_d_1_1_interface__segregation__principle_1_1_r_s200_pricing.html" title=" " alt="" coords="347,332,537,373"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="311,332,347,337,346,342,310,338"/>
+<area shape="rect" id="Node000013" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_compact.html" title=" " alt="" coords="345,397,539,438"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="257,487,344,449,377,436,379,441,346,453,259,492"/>
+<area shape="rect" id="Node000015" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_s_u_v.html" title=" " alt="" coords="345,463,539,503"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="312,498,344,494,345,499,313,503"/>
+<area shape="rect" id="Node000018" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_sports_bike.html" title=" " alt="" coords="345,528,539,569"/>
+<area shape="poly" id="edge18_Node000012_Node000018" title=" " alt="" coords="313,529,345,533,344,538,312,534"/>
+<area shape="rect" id="Node000014" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_grand_i10.html" title=" " alt="" coords="587,365,782,406"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="555,400,587,396,587,401,555,405"/>
+<area shape="rect" id="Node000016" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_creta.html" title=" " alt="" coords="587,431,782,471"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="555,465,587,461,587,466,555,471"/>
+<area shape="rect" id="Node000017" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_safari.html" title=" " alt="" coords="587,496,782,537"/>
+<area shape="poly" id="edge17_Node000015_Node000017" title=" " alt="" coords="555,496,587,500,587,506,555,501"/>
+<area shape="rect" id="Node000019" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_r_s200.html" title=" " alt="" coords="587,561,782,602"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="555,561,587,566,587,571,555,566"/>
+<area shape="rect" id="Node000021" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_creta_pricing.html" title=" " alt="" coords="345,593,539,634"/>
+<area shape="poly" id="edge21_Node000020_Node000021" title=" " alt="" coords="257,683,344,645,377,632,379,637,346,649,259,688"/>
+<area shape="rect" id="Node000022" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="345,659,539,699"/>
+<area shape="poly" id="edge22_Node000020_Node000022" title=" " alt="" coords="312,694,344,690,345,695,313,699"/>
+<area shape="rect" id="Node000023" href="$class_s_o_l_i_d_1_1dependency__inversion__principle_1_1_r_s200_pricing.html" title=" " alt="" coords="345,724,539,765"/>
+<area shape="poly" id="edge23_Node000020_Node000023" title=" " alt="" coords="313,725,345,729,344,734,312,730"/>
+<area shape="rect" id="Node000025" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_compact.html" title=" " alt="" coords="348,789,536,830"/>
+<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="257,879,344,841,377,828,379,833,346,845,259,884"/>
+<area shape="rect" id="Node000027" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_s_u_v.html" title=" " alt="" coords="348,855,536,895"/>
+<area shape="poly" id="edge27_Node000024_Node000027" title=" " alt="" coords="309,891,348,885,348,891,309,896"/>
+<area shape="rect" id="Node000029" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_sports_bike.html" title=" " alt="" coords="348,920,536,961"/>
+<area shape="poly" id="edge29_Node000024_Node000029" title=" " alt="" coords="309,920,348,925,348,931,309,925"/>
+<area shape="rect" id="Node000026" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_grand_i10.html" title=" " alt="" coords="591,789,778,830"/>
+<area shape="poly" id="edge26_Node000025_Node000026" title=" " alt="" coords="551,807,590,807,590,812,551,812"/>
+<area shape="rect" id="Node000028" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_creta.html" title=" " alt="" coords="591,855,778,895"/>
+<area shape="poly" id="edge28_Node000027_Node000028" title=" " alt="" coords="551,872,590,872,590,878,551,878"/>
+<area shape="rect" id="Node000030" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_r_s200.html" title=" " alt="" coords="591,920,778,961"/>
+<area shape="poly" id="edge30_Node000029_Node000030" title=" " alt="" coords="551,938,590,938,590,943,551,943"/>
+<area shape="rect" id="Node000032" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_creta_pricing.html" title=" " alt="" coords="348,985,536,1026"/>
+<area shape="poly" id="edge32_Node000031_Node000032" title=" " alt="" coords="309,1021,348,1016,348,1021,309,1027"/>
+<area shape="rect" id="Node000033" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="348,1051,536,1091"/>
+<area shape="poly" id="edge33_Node000031_Node000033" title=" " alt="" coords="309,1051,348,1056,348,1061,309,1056"/>
+<area shape="rect" id="Node000034" href="$class_s_o_l_i_d_1_1liskov_01_0js__substitution__principle_1_1_r_s200_pricing.html" title=" " alt="" coords="348,1116,536,1157"/>
+<area shape="poly" id="edge34_Node000031_Node000034" title=" " alt="" coords="260,1064,346,1101,379,1113,377,1118,344,1105,258,1069"/>
+<area shape="rect" id="Node000036" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_creta.html" title=" " alt="" coords="347,1181,537,1222"/>
+<area shape="poly" id="edge36_Node000035_Node000036" title=" " alt="" coords="310,1217,346,1212,347,1217,311,1222"/>
+<area shape="rect" id="Node000037" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_grand_i10.html" title=" " alt="" coords="347,1247,537,1287"/>
+<area shape="poly" id="edge37_Node000035_Node000037" title=" " alt="" coords="311,1247,347,1252,346,1257,310,1252"/>
+<area shape="rect" id="Node000038" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_r_s200.html" title=" " alt="" coords="347,1312,537,1353"/>
+<area shape="poly" id="edge38_Node000035_Node000038" title=" " alt="" coords="260,1260,346,1297,379,1309,377,1314,344,1301,258,1265"/>
+<area shape="rect" id="Node000040" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_creta_pricing.html" title=" " alt="" coords="347,1377,537,1418"/>
+<area shape="poly" id="edge40_Node000039_Node000040" title=" " alt="" coords="311,1395,347,1395,347,1400,311,1400"/>
+<area shape="rect" id="Node000041" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="347,1443,537,1483"/>
+<area shape="poly" id="edge41_Node000039_Node000041" title=" " alt="" coords="293,1420,365,1439,363,1445,292,1425"/>
+<area shape="rect" id="Node000043" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_creta.html" title=" " alt="" coords="351,1508,533,1549"/>
+<area shape="poly" id="edge43_Node000042_Node000043" title=" " alt="" coords="307,1526,351,1526,351,1531,307,1531"/>
+<area shape="rect" id="Node000044" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_grand_i10.html" title=" " alt="" coords="351,1573,533,1614"/>
+<area shape="poly" id="edge44_Node000042_Node000044" title=" " alt="" coords="293,1551,365,1570,363,1575,292,1556"/>
+<area shape="rect" id="Node000046" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_creta_pricing.html" title=" " alt="" coords="351,1639,533,1679"/>
+<area shape="poly" id="edge46_Node000045_Node000046" title=" " alt="" coords="307,1656,351,1656,351,1662,307,1662"/>
+<area shape="rect" id="Node000047" href="$class_s_o_l_i_d_1_1single__responsibility__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="351,1704,533,1745"/>
+<area shape="poly" id="edge47_Node000045_Node000047" title=" " alt="" coords="293,1681,365,1701,363,1706,292,1686"/>
+</map>

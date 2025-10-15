@@ -1,0 +1,9 @@
+<map id="SOLID.open_close_principle.VehiclePricing" name="SOLID.open_close_principle.VehiclePricing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,39,293,79"/>
+<area shape="rect" id="Node000003" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_creta_pricing.html" title=" " alt="" coords="341,5,531,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,41,340,36,341,42,309,46"/>
+<area shape="rect" id="Node000004" href="$class_s_o_l_i_d_1_1open__close__principle_1_1_grand_i10_pricing.html" title=" " alt="" coords="341,71,531,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,71,341,76,340,81,308,77"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,46,55,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,56,102,56,102,62,70,62"/>
+</map>
