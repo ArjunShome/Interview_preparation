@@ -7,8 +7,10 @@
       <excludeFolder url="file://$MODULE_DIR$/Projects/Middleware/AuthenticationAuthorization/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Projects/Data_Engineering/PySpark_practice/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Projects/Middleware/custom_middleware/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Docker_Practice/simple_app/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/Data_Engineering/AsynImageProcessingPipeline/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="uv (custom_middleware)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="uv (simple_app)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

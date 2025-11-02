@@ -27,15 +27,19 @@ If it fails all 3 retries → original exception must propagate.
 	•	Add exponential backoff (1s, 2s, 4s…)
 
 """
+import functools
 import time
+import inspect
 
 def retry(num_retry):
     def inner(func):
+        @functools.wraps(func)
         def wrapper(*args, **kwargs):
             i = 1
             last_ex = None
             while i <= num_retry:
                 try:
+                    print(f"Running function {func.__name__, func.__doc__, func.__annotations__, func.__dict__, inspect.signature(func).bind(*args, **kwargs)}")
                     return func(*args, **kwargs)
                 except ValueError as ex:
                     last_ex = ex
@@ -61,6 +65,11 @@ def unstable_function_2(n):
 
 @retry(2)
 def stable_function(n):
+    """
+    Stable Function Docstr
+    :param n:
+    :return:
+    """
     print(n)
 
 

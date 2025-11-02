@@ -1,0 +1,13 @@
+[project]
+name = "asynimageprocessingpipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "celery>=5.5.3",
+    "fastapi>=0.119.0",
+    "pillow>=11.3.0",
+    "rabbitmq>=0.2.0",
+    "redis>=6.4.0",
+]

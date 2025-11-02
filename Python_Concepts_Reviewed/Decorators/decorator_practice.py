@@ -53,7 +53,7 @@ def predictPersonAgeBasedOnName(name: str):
 # MAIN CODE CALL
 ###############################
 if __name__ == '__main__':
-
+    pass
     ## Exercise 1 -> # Create a Decorator to Log Function Arguments and Return Value
     #print(userSum("Arjun", 5, 10))
 
